@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">MainActivity</string>
+    <string name="button">Button</string>
+    <string name="title">Jason Present</string>
+    <string name="button123">Button</string>
+    <string name="button12">Button</string>
+    <string name="kamu_ganteng">kamu ganteng</string>
+    <string name="Name_zample">Name Example</string>
+    <string name="tulis_nama">Tulis Nama</string>
+    <string name="chip_1">Chip 1</string>
 </resources>
